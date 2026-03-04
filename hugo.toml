@@ -1,0 +1,4 @@
+baseURL = 'http://supremesnickers.cc/'
+languageCode = 'en-us'
+title = 'home of the only supremesnickers'
+theme = 'supremetheme'
